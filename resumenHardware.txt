@@ -1,0 +1,4 @@
+Lista 3 memorias principales de la computadora:
+1.- Memoria Rom
+2.-Memoria Ram
+3.- Memoria Cache

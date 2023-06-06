@@ -1,0 +1,4 @@
+Listar 3 ejemplos de software:
+1.- Sistemas operativos ej. Microsoft Windows
+2.- Antivirus ej. Kaspersky
+3.- Navegadores Web ej. Chrome

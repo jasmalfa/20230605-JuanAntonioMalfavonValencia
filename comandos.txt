@@ -1,0 +1,32 @@
+    1  git init
+    2  git remote add origin https://github.com/jasmalfa/20230605-JuanAntonioMalfavonValencia.git
+    3  git remote -v
+    4  touch comandos.txt main.js index.html
+    5  git add .
+    6  git commit -m "commit 01 de AntonioMalfavon"
+    7  git status
+    8  git push origin main
+    9  git branch feature
+   10  git checkout feature 
+   11  mkdir Hardware Software SeguridadInformatica
+   12  cd Hardware/
+   13  touch resumen.txt
+   14  cp resumen.txt ../SeguridadInformatica/
+   15  cp resumen.txt ../Software/
+   16  git add .
+   17  git status
+   18  git add .
+   19  git commit -m "commit 02 de AntonioMalfavon"
+   20  git status
+   21  git add .
+   22  git status
+   23  cd ..
+   24  git add .
+   25  git status
+   26  git commit -m "commit 02(corregido) de AntonioMalfavon"
+   27  git push origin feature
+   28  git checkout main
+   29  mv main.js resumenHardware.txt
+   30  mv index.html resumenSoftware.txt
+   31  history
+   32  history > comandos.txt 
